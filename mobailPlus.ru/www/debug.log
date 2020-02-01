@@ -1,0 +1,112 @@
+[0404/213239.003:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\cae50d52-5e09-4fc4-b724-2332fb588b82.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.004:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\0f0ea626-ea9e-4e59-a7e3-b9fdf0f98e8b.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.004:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\02cdbe0a-9234-4689-a468-bcdd6de10f4d.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.004:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\abb1e9a7-f8fe-4894-a995-d73f68021f3c.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.005:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\a35b944d-fb8b-42ac-a07b-e3dfb0b6a174.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.005:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\2345710a-f25a-454d-9f1a-7d22fca3c07f.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.005:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\2ec1dfe4-4f31-4394-bc96-0d7e0382fe5c.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.005:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\92a4d25f-5b55-4344-b73e-98e3933a3584.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.005:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\76124c59-c5db-4ecd-b978-8b90b5c06528.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.005:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\c74a1b2e-3816-4d2f-be7b-92b0523959ff.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.005:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\76f74bcc-e5ef-4bb5-a730-6c153907c45f.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.005:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\acf3dca4-7737-441a-8de4-cf63abc50e4e.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.005:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\297c119b-82dc-4934-a96b-12a0d2008bc4.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.005:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\95d05210-523b-4b73-88e6-b055c1d44050.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.005:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\3ccf1e33-485e-4710-ba1b-33d65fa94144.dmp: Не удается найти указанный файл. (0x2)
+[0404/213239.005:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\facd8922-977f-4de0-8e8b-b80e052f0d34.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.816:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\cae50d52-5e09-4fc4-b724-2332fb588b82.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.817:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\0f0ea626-ea9e-4e59-a7e3-b9fdf0f98e8b.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.817:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\02cdbe0a-9234-4689-a468-bcdd6de10f4d.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.817:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\abb1e9a7-f8fe-4894-a995-d73f68021f3c.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.817:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\a35b944d-fb8b-42ac-a07b-e3dfb0b6a174.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.817:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\2345710a-f25a-454d-9f1a-7d22fca3c07f.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.817:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\2ec1dfe4-4f31-4394-bc96-0d7e0382fe5c.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.817:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\92a4d25f-5b55-4344-b73e-98e3933a3584.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.817:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\76124c59-c5db-4ecd-b978-8b90b5c06528.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.817:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\c74a1b2e-3816-4d2f-be7b-92b0523959ff.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.818:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\76f74bcc-e5ef-4bb5-a730-6c153907c45f.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.818:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\acf3dca4-7737-441a-8de4-cf63abc50e4e.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.818:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\297c119b-82dc-4934-a96b-12a0d2008bc4.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.818:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\95d05210-523b-4b73-88e6-b055c1d44050.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.818:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\3ccf1e33-485e-4710-ba1b-33d65fa94144.dmp: Не удается найти указанный файл. (0x2)
+[0404/213319.818:ERROR:crash_report_database_win.cc(469)] stat C:\Users\Nik\AppData\Local\Google\Chrome\User Data\Crashpad\reports\facd8922-977f-4de0-8e8b-b80e052f0d34.dmp: Не удается найти указанный файл. (0x2)
+[0418/010427.058:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.102:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/010427.103:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.300:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.300:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.300:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.300:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.300:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.300:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.300:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/123524.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.302:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.302:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.302:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.302:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.303:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.303:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.303:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.303:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.303:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.303:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.304:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.304:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.304:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.304:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.304:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.306:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.307:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.307:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.307:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.307:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/124524.307:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.301:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0418/125024.302:ERROR:crash_report_database_win.cc(469)] failed to stat report

@@ -1,0 +1,348 @@
+@charset "utf-8";
+
+/* Шапка с информаицей и логотипом - header-info and logotip */
+.inner-header {
+	height: 90px;
+  	margin: 0 5% 0 5%;
+}
+
+/* left-header */
+.inner-header > li:first-child {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	max-width: 250px;
+	float: left;
+}
+
+
+.logotip-imager {
+	width: 100px;
+}
+
+.logotip-imager > img {
+	display: inline-block;
+	width: 100%;
+}
+
+.logotip-text {
+	display: block;
+	width: 150px;
+	height: 105px;
+	padding-top: 20px;
+	text-align: right;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 30px;
+}
+
+.logotip-text > div {
+	font-weight: 300;
+	font-size: 16px;
+}
+
+/* right-header */
+.inner-header > li:last-child {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	max-width: 920px;
+	float: right;
+}
+
+.inner-header > li:last-child:after {
+	clear: both;
+}
+
+.sell-inform {
+	margin-right: 20px;
+	padding-top: 20px;
+}
+
+.sell-inform:last-child {
+	position: relative;
+	margin-right: 0;
+}
+
+.sell-inform > div {
+	text-align: right;
+	padding-right: 40px;
+}
+
+/* Меню - Menu */
+.home-head {
+	width: 100%;
+	height: 61px;
+  	padding: 0 5% 0 5%;
+  	margin-bottom: 144px;
+	background: #F37F00;
+	box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.426);
+}
+
+.locat {
+	padding-top: 17.5px;
+	float: left;
+	cursor: pointer;
+}
+
+.menu {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	float: right;
+}
+
+.menu:after {
+	clear: both;
+}
+
+.menu > .menu-inner {
+	padding-top: 17.5px;
+	color: #fff;
+}
+
+.menu .menu-inner > a {
+	padding: 10px;
+	color: #fff;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 19px;
+}
+
+.menu .menu-inner > a:hover {
+	color: #f1f1f1;
+}
+
+
+/* Корзина - Basket */
+.bask {
+	position: relative;
+	width: 112px;
+	height: 41px;
+	margin-left: 68px;
+	margin-top: 10px;
+	background-color: #fff;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 15px;
+	text-align: center;
+	border-radius: 3px;
+}
+
+.bask > img {
+	position: absolute;
+	width: 19px;
+	height: 18.55px;
+	left: 10px;
+	top: 10px;
+}
+
+.bask > a {
+	position: absolute;
+	color: #000;
+	width: 59px;
+	height: 17.57px;
+	left: 35px;
+	top: 10px;
+}
+
+/* Слайдер - Slider */
+.slider {
+	width: 100%;
+	height: 327px;
+	background: url(../imager/bg/251576366.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+  	margin-bottom: 144px;
+  	padding: 0 20% 0 20%;
+	box-shadow: inset 0px 0px 50px rgba(0, 0, 0, 0.4);
+}
+
+.inner-slider {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+/*--- Стрелки ---*/
+.back {
+	position: absolute;
+	width: 20px;
+	height: 40px;
+	left: 0;
+	top: 153px;
+	cursor: pointer;
+	background: url(../imager/icon/left.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+
+.next {
+	position: absolute;
+	width: 20px;
+	height: 40px;
+	right: 0;
+	top: 153px;
+	cursor: pointer;
+	background: url(../imager/icon/right.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+/*--- Стрелки ---*/
+
+
+/* Товары - Tovars */
+.tovars {
+  	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;
+	margin-top: 37px;
+}
+
+.cell-t {
+	position: relative;
+	width: 313px;
+	height: 468px;
+	margin-right: 23px;
+  	border: 1px solid #9D9D9D;
+	box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.3);
+}
+
+.cell-t > img {
+	position: absolute;
+	min-width: 95px;
+	width: 100%;
+	max-width: 304.6px;
+	height: 318px;
+	left: 0;
+	top: 0;
+}
+
+.cell-t > .name-t {
+	position: absolute;
+	width: 186px;
+	height: 59px;
+	left: 65px;
+	top: 348px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 20px;
+}
+
+.cell-t > .butt {
+	position: absolute;
+	width: 148px;
+	line-height: 38px;
+	padding: 10px 0 10px 0;
+	left: 85px;
+	top: 398px;
+	background: #17689B;
+	border-radius: 3px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+	cursor: pointer;
+}
+
+.cell-t:last-child {
+	margin-right: 0;
+}
+
+/* Ремонт */
+.repair {
+	width: 100%;
+	height: 591px;
+	margin-top: 90px;
+	background: #D2D2D2;
+	box-shadow: 0px 0px 33px rgba(0, 0, 0, 0.43);
+}
+
+.inner-repair {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;
+}
+
+.inner-repair > img {
+	width: 501px;
+	height: 501px;
+	margin: 45px 0 0 0;
+}
+
+.inner-repair > .text-repair {
+	width: 40%;
+	height: 196px;
+	margin: 198px 0 0 57px;
+}
+
+.text-repair > h1 {
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 42px;
+	padding-bottom: 20px;
+}
+
+.text-repair > div {
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 27px;
+}
+
+/* Место нахождения - Карты(Maps) */
+.maps {
+	width: 100%;
+	height: 591px;
+}
+
+.inner-maps {
+	position: relative;
+	float: left;
+	width: 40%;
+}
+
+.inner-maps > img{
+	display: inline-block;
+	width: 586px;
+	height: 591px;
+}
+
+.inner-maps:after {
+	clear: both;
+}
+
+/* Footer */
+.inner-footer {
+	line-height: 50px;
+	color: #fff;
+}

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8">
+		<title>Корзина: Мед</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="keywords" content="«Интернет магазин» - Мишкина Радость, мёд, пчелопродукция, купить, цена">
+		<!-- Mini-logo -->
+		<link rel="shortcut icon" href="imager/favicon.ico" type="image/x-icon">
+		<!-- Шрифты -->
+		<link href="https://fonts.googleapis.com/css?family=Caveat" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+		<!-- Стили -->
+		<link rel="stylesheet" href="style/main.css" type="text/css"> 
+		<link rel="stylesheet" href="style/tovar.css" type="text/css"> 
+		<!-- Подключение jQuery -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+		<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+		<script type="text/javascript" src="scripts/plugins/jquery.mask.js"></script>
+	</head>
+	<body>
+		<div class="home">
+			<a href="index.html">На главную</a>
+			<a href="index.html#catl">К каталогу</a>
+		</div>
+		<section>
+			<div class="container">
+				<form action="index.html" method="POST">
+					<div class="content">
+						<div class="inner-sidebar">
+							<div class="text-info">
+								<div class="tovar-img">
+									<img src="imager/tovar/med1.jpg" alt="Мед">
+								</div>
+								<div class="tovar-info">
+									<p>Название: <input class="readon" type="text" name="tovar" value="Мед" size="25" readonly></p>
+									<p>Цена: <input class="readon" type="text" id="price" name="price" value="99999" size="5" readonly> руб.</p>
+									<p>Описание: Мед мед мед мед мед мед мед мед мед мед</p>
+									<p>Количество:</p>
+									<div class="orient">
+										<div id="back" onclick="back();">Назад</div>
+											<input type="text" name="numbers" class="numb" size="1" value="1">
+											<select name="packing" class="pack">
+												<option class="inner-pack" value="кг">Фасовка в кг</option>
+												<option class="inner-pack" value="гр">Фасовка в гр</option>
+												<option class="inner-pack" value="л">Фасовка в л</option>
+												<option class="inner-pack" value="мл">Фасовка в мл</option>
+											</select>
+										<div id="next" onclick="next();">Вперёд</div>
+									</div>
+									<p>В наличии: 9.9 кг.</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+							<div class="checkout">
+								<div class="button-shop" onclick="oformlenie();">Оформить заказ</div>
+							</div>
+						</div>
+					</div>
+					<div class="sidebar">
+						<div class="inner-sidebar">
+							<label>Имя: </label>
+							<input class="inp" type="text" name="username" required>
+							<label>Фамилия: </label>
+							<input class="inp" type="text" name="surname" required>
+							<label>Отчество: </label>
+							<input class="inp" type="text" name="otchestvo" required>
+							<label>Адрес доставки: </label>
+							<input class="inp" type="text" name="urlDelivery" required autocomplete>
+							<label>Почта: </label>
+							<input class="inp" type="email" name="email" placeholder="xxx@mail.ru">
+							<label>Телефон: </label>
+							<input class="inp" type="text" name="telephone" id="tel" required>
+							<label>Удобное для вас время звонка: </label>
+							<input class="inp" type="time" name="timeBell" required>
+							<label>Удобная дата-доставки: </label>
+							<input class="inp" type="time" name="timeDelivery" required>
+							<label>Дата заказа: </label>
+							<input class="inp" type="text" name="dataDelivery" required>
+							<div class="order-block">
+								<input type="submit" class="button-shop order" value="Заказать">
+							</div>
+						</div>
+					</div>
+					<div class="clear"></div>
+				</form>
+			</div>
+		</section>
+		<footer>
+			<div class="telefon">
+				<span>Наш телефон: 8-902-844-61-16</span>
+			</div>
+			<div class="email">
+				<span>Почта: bee71max@gmail.com</span>
+				<span><em class="fa fa-vk"></em></span>
+			</div>
+			<div class="clear"></div>
+		</footer>	
+		<script src="scripts/tovar.js"></script>
+	</body>
+</html>

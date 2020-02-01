@@ -1,0 +1,127 @@
+@charset "utf-8";
+
+/* Sort-menu */
+.sort-menu {
+	width: 1320px;
+	height: 60px;
+	margin: 0 auto;
+	border: 1px solid #CDCDCD;
+	border-radius: 3px;
+	margin-top: 53px;
+	margin-bottom: 107px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;
+}
+
+	.sort-box {
+		margin-right: 68px;
+		width: 279px;
+	}
+	.sort-box:after {
+		margin-right: 0;
+	}
+
+	.sort-box h4 {
+		position: relative;
+		margin-top: 20px;
+		cursor: pointer;
+		z-index: 1001;
+	}
+
+	.sort-box:nth-child(1) h4:after {
+		content: " ";
+		position: absolute;
+		top: 9px;
+		right: 60px;
+		display: block;
+		width: 7px;
+		height: 7px;
+		border: 7px solid transparent;
+		border-top: 7px solid #17689B;
+	}
+	.sort-box:nth-child(2) h4:after {
+		content: " ";
+		position: absolute;
+		top: 9px;
+		right: 60px;
+		display: block;
+		width: 7px;
+		height: 7px;
+		border: 7px solid transparent;
+		border-top: 7px solid #17689B;
+	}
+	.sort-box:nth-child(3) h4:after {
+		content: " ";
+		position: absolute;
+		top: 9px;
+		right: 150px;
+		display: block;
+		width: 7px;
+		height: 7px;
+		border: 7px solid transparent;
+		border-top: 7px solid #17689B;
+	}
+
+		/* Выпадающий список "Скрыт" */
+		.menu-sort-box  {
+			display: none;
+		}
+
+		.menu-sort-box {
+			position: relative;
+			z-index: 1000;
+			padding-top: 47px;
+			margin-top: -30px;
+			line-height: normal;
+			font-weight: 300;
+			font-size: 16px;
+		}
+
+
+
+		.inner-sort-box {
+			display: -webkit-flex;
+			display: -moz-flex;
+			display: -ms-flex;
+			display: -o-flex;
+			display: flex;
+			min-height: 298px;
+			width: 279px;
+			background: #FFFFFF;
+			border: 1px solid #E5E5E5;
+		}
+
+		.inner-sort-box li {
+			height: 27.9px;
+			padding: 5px;
+		}
+
+		.menu-box-link {
+			width: 50%;
+			height: 100%;
+			padding: 23px 0 23px 23px;
+			text-align: left;
+		}
+		.inner-sort-box:after {
+			content: " ";
+			clear: both;
+		}
+
+		.menu-box-link li > a {
+			color: #000;
+		}
+
+
+		/* Выпадающий список "Появился" */
+		h4:hover + .menu-sort-box {
+			display: block;
+			z-index: 1000;
+		}
+		.menu-sort-box:hover {
+			display: block;
+			z-index: 1000;
+		}
