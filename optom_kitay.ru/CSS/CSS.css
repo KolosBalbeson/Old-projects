@@ -1,0 +1,459 @@
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	padding:0;
+	margin:0;
+	height:100%;
+}
+
+body {
+	color:#000000;
+	font-size: 20px;
+	min-height:1000px;
+}
+
+div > .blok-boss {
+	display:inline-block;
+}
+
+a {
+	text-decoration: none;
+	display:inline-block;
+	color:#000;
+}
+
+em {
+	color:#fff;
+}
+
+header {
+	float:left;
+	width:100%;
+	max-height:180px;
+}
+
+#base-header {
+	height:165px;
+	width:100%;
+	position: fixed; /* Фиксированное положение */
+	z-index: 10000;
+}
+
+/* шапкa */
+.inner-base {
+	height:160px;
+	color:#000000;
+}
+/* Левая часть шапки */
+.left-inner {
+	float:left;
+	width:40%;
+	background-color: #77D701;
+}
+/* Центр шапки */
+.center-inner {
+	float:left;
+	width:40%;
+	height:123px;
+	background-color: #77D701;
+}
+/* Правая часть шапки */
+.right-inner {
+	float:right;
+	width:20%;
+	height:123px;
+	background-color: #77D701;
+}
+/* Нижняий пропуск шапки */
+#down-pass{
+	float:left;
+	width:100%;
+	display:block;
+	height:5px;
+}
+/* Нижняя часть шапки */
+.down-inner {
+	float:left;
+	width:100%;
+}
+/* Левая часть шапки */
+/* Логотип(картинка) */
+.logo-img {
+	float:left;
+	width:30%;
+	text-align:center;
+	padding:0;
+	margin:0;
+	padding-top:8px;
+	background-color: #77D701;
+}
+/* Название */
+.logo-text {
+	float:left;
+	width:70%;
+	text-align:center;
+	padding:0;
+	margin:0;
+	padding-top:25px;
+	background-color: #77D701;
+	text-shadow:1px 1px #759A18;
+}
+/* ---- */
+
+/* Центр шапки */
+/* Контакты */
+.contact {
+	float:left;
+	width:50%;
+	text-align:center;
+	background-color: #77D701;
+}
+/* Приём заказов */
+.acceptance {
+	float:left;
+	width:50%;
+	text-align:center;
+	background-color: #77D701;
+}
+/* ---- */
+
+/* Правая часть шапки */
+/* Соц-сети */
+.links {
+	width:100%;
+	text-align:right;
+	padding-top:30px;
+	background-color: #77D701;
+}
+
+/* Вконтакте */
+.vk {
+	float:left;
+	width:30%;
+}
+/* Одноклассники */
+.odn {
+	float:left;
+	width:30%;
+}
+/* Инстаграм */
+.inst {
+	float:left;
+	width:30%;
+}
+/* ---- */
+
+/* Нижняя часть шапки */
+/* Навигация */
+.navigation {
+	text-align:center;
+	padding:0;
+	margin:0 auto;
+	height:40px;
+}
+
+.navigation a {
+	display:inline-block;
+}
+
+.lin {
+	float:left;
+	width:100%;
+	height:5px;
+	display:block;
+	margin:0;
+	background-color: #77D701;
+}
+/* Новинки */
+.news a{
+	margin-left:130px;
+	float:left;
+	width:200px;
+	height:40px;
+	padding-top:8px;
+	background-color: #77D701;
+	border-radius: 0 0 0 10px;  
+}
+.news:hover a{
+	box-shadow: inset 0 2px 10px 1px rgba(0,0,0,.3), inset 0 0 0 60px rgba(0,0,0,.3), 0 1px rgba(255,255,255,.08);
+}
+
+.sa {
+	float:left;
+	width:5px;
+	height:28px;
+	display:block;
+	margin:0;
+}
+/* Мягкие игрушки */
+.stuffed a{
+	float:left;
+	width:200px;
+	height:40px;
+	padding-top:8px;
+	background-color: #77D701;
+}
+.stuffed a:hover {
+	box-shadow: inset 0 2px 10px 1px rgba(0,0,0,.3), inset 0 0 0 60px rgba(0,0,0,.3), 0 1px rgba(255,255,255,.08);
+}
+/* Аналоги Лего */
+.lego a{
+	float:left;
+	width:200px;
+	height:40px;
+	padding-top:8px;
+	background-color: #77D701;
+}
+.lego a:hover {
+	box-shadow: inset 0 2px 10px 1px rgba(0,0,0,.3), inset 0 0 0 60px rgba(0,0,0,.3), 0 1px rgba(255,255,255,.08);
+}
+/* Машинки */
+.machines a{
+	float:left;
+	width:200px;
+	height:40px;
+	padding-top:8px;
+	background-color: #77D701;
+}
+.machines a:hover {
+	box-shadow: inset 0 2px 10px 1px rgba(0,0,0,.3), inset 0 0 0 60px rgba(0,0,0,.3), 0 1px rgba(255,255,255,.08);
+}
+/* О нас */
+.we a{
+	float:left;
+	width:200px;
+	height:40px;
+	padding-top:8px;
+	background-color: #77D701;
+	border-radius: 0 0 10px 0;
+}
+.we a:hover {
+	box-shadow: inset 0 2px 10px 1px rgba(0,0,0,.3), inset 0 0 0 60px rgba(0,0,0,.3), 0 1px rgba(255,255,255,.08);
+}
+/* ---- */
+
+/* //// */
+
+#left-color {
+	display:block;
+	height:5px;
+	float:left;
+	width:20%;
+	background-color:#77D701;
+}
+
+#center-pass {
+	display:block;
+	height:5px;
+	float:left;
+	width:60%;
+}
+
+#right-color {
+	display:block;
+	height:5px;
+	float:left;
+	width:20%;
+	background-color:#77D701;
+}
+
+/* \\\\ */
+
+
+
+/* Контент */
+section {
+	min-height:800px;
+	width:100%;
+	margin: 0;
+	padding-top: 200px;
+}
+
+.content {
+	width:100%;
+	float:left;
+}
+
+
+.numb {
+	width:100%;
+	text-align: center;
+}
+
+.cursor {
+	padding:5px;
+	margin:5px;
+}
+.cursor:hover {
+	cursor:pointer;
+}
+/* Контент */
+
+
+
+/* Подвал */
+footer {
+	min-height:100px;
+	width:100%;
+	margin: 0;
+	padding: 0;
+	margin-top:20px;
+}
+/* Подвал */
+
+/* Кнопки */
+
+#knopka1 {
+	max-width:100%;
+	height:30px;
+	margin-top:25px;
+	margin-bottom:2px;
+	padding:5px;
+	background-color:#B7F66A;
+	border-radius: 0 0 5px 5px;
+    cursor: pointer;
+	position: absolute;
+	left:80px;
+}
+
+/* Товар */
+
+.tovars{
+	width:100%;
+	text-align: center;
+}
+
+.tovars1{
+	width:100%;
+	text-align: center;
+}
+
+.name-tovar {
+	width:200px;
+	height:40px;
+	margin-left:525px;
+	margin-top:10px;
+	padding:7px;
+	border: 2px solid #77D701;
+	background-color:#77D701;
+	text-align: center;
+	border-radius:5px;
+}
+
+
+
+.blok-boss {
+	margin-top:15px;
+	margin-bottom:40px;
+	margin-left:40px;
+	margin-right:20px;
+}
+
+/* Анимация товара */
+div.blok6 {
+    cursor: pointer;
+    position: relative;
+    text-align: center;
+  }
+  div.blok6:before {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    box-shadow: 0 0 10px #A0A9B1 inset;
+    content: attr(data-title);
+    font-family: Tahoma;
+    font-size: 20px;
+    min-height:250px;
+    line-height:30px;
+    opacity: 0;
+    padding: 0 10px;
+    position: absolute;
+    right: 50px;
+    top: 20px;
+    -moz-transition: all 1s;
+    -webkit-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+  }
+  div.blok6:hover:before {
+    right: 245px;
+    opacity: 1;
+    top: 0px;
+	background-color:#B7F66A;
+	text-shadow:1px 1px #9D9D3C;
+	z-index:10;
+  }
+  div.blok6 img {
+    width: 180px;
+	height: 160px;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    -o-transition: all 2s;
+    transition: all 2s;
+	/*border:1px solid #FFC34C;*/
+  }
+  div.blok6:hover img {
+    width: 240px;
+	height: 220px;
+	/*border:1px solid #FFC34C;*/
+  }
+  div.blok6:after {
+    content: attr(data-zagolovok);
+    display: block;
+    font-weight: bold;
+    font-family: Helvetica;
+    font-size: 20px;
+    text-align: center;
+	position:relative;
+	z-index:10;
+  } 
+  
+.news a{
+	cursor:pointer;
+}
+.stuffed a{
+	cursor:pointer;
+}
+.lego a{
+	cursor:pointer;
+}
+.machines a{
+	cursor:pointer;
+}
+.we a{
+	cursor:pointer;
+}
+
+.text {
+	padding:10px;
+    font-family: Times New Roman;
+	width:100%;
+	min-height:150px;
+	margin:0;
+	margin-top:10px;
+	text-align: center ;
+	text-shadow: 1px 1px #000;
+	color:#A1D321;
+	font-size:22px;
+}
+
+
+#transition-rotate em {
+  position: relative;
+  z-index: 2;
+  margin: 0 auto;
+  text-align: center;
+  cursor: pointer;
+  transition: 1.6s linear;
+}
+#transition-rotate em:hover {
+  -webkit-transform: rotate(380deg);
+  transform: rotate(380deg);
+	text-shadow:1px 2px gray;
+	color:#B4ED25;
+}
+
+.clear {
+	clear: both;
+}
